@@ -1,11 +1,12 @@
 package com.polije.tif.adapter;
 
-import android.support.annotation.NonNull;
-import android.support.v7.widget.RecyclerView;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.polije.tif.R;
 import com.polije.tif.model.Mahasiswa;
@@ -42,7 +43,7 @@ public class MahasiswaAdapter extends RecyclerView.Adapter<MahasiswaAdapter.Maha
     public class MahasiswaViewHolder extends RecyclerView.ViewHolder{
 
         private TextView txtNama, txtNpm, txtNoHp;
-        public MahasiswaViewHolder(@NonNull @androidx.annotation.NonNull View itemView) {
+        public MahasiswaViewHolder(View itemView) {
             super(itemView);
             txtNama = (TextView)  itemView.findViewById(R.id.txt_nama_mahasiswa);
             txtNpm = (TextView)  itemView.findViewById(R.id.txt_npm_mahasiswa);

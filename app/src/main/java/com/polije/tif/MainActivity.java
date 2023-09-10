@@ -3,8 +3,9 @@ package com.polije.tif;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.polije.tif.adapter.MahasiswaAdapter;
 import com.polije.tif.model.Mahasiswa;
