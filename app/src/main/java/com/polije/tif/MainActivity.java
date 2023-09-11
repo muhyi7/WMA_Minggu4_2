@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         ActionBar actionBar = getSupportActionBar();
         if (actionBar != null) {
-            actionBar.setTitle("Data Mahasiswa");
+            actionBar.setTitle("Ahmad Muhyiddin(E41221654)");
         }
 
         addData();
