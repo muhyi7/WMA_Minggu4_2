@@ -44,5 +44,41 @@ public class MainActivity extends AppCompatActivity {
         mahasiswaArrayList.add(new Mahasiswa("Fadly Yonk", "1214234560","987654321"));
         mahasiswaArrayList.add(new Mahasiswa("Ariyandi Nugraha", "1214230345","9876548765"));
         mahasiswaArrayList.add(new Mahasiswa("Aham Siswana", "1214378098","0098758124"));
+
+        mahasiswaArrayList.add(new Mahasiswa("Dimas Maulana", "1414370309","123456789"));
+        mahasiswaArrayList.add(new Mahasiswa("Fadly Yonk", "1214234560","987654321"));
+        mahasiswaArrayList.add(new Mahasiswa("Ariyandi Nugraha", "1214230345","9876548765"));
+        mahasiswaArrayList.add(new Mahasiswa("Aham Siswana", "1214378098","0098758124"));
+
+        mahasiswaArrayList.add(new Mahasiswa("Dimas Maulana", "1414370309","123456789"));
+        mahasiswaArrayList.add(new Mahasiswa("Fadly Yonk", "1214234560","987654321"));
+        mahasiswaArrayList.add(new Mahasiswa("Ariyandi Nugraha", "1214230345","9876548765"));
+        mahasiswaArrayList.add(new Mahasiswa("Aham Siswana", "1214378098","0098758124"));
+
+        mahasiswaArrayList.add(new Mahasiswa("Dimas Maulana", "1414370309","123456789"));
+        mahasiswaArrayList.add(new Mahasiswa("Fadly Yonk", "1214234560","987654321"));
+        mahasiswaArrayList.add(new Mahasiswa("Ariyandi Nugraha", "1214230345","9876548765"));
+        mahasiswaArrayList.add(new Mahasiswa("Aham Siswana", "1214378098","0098758124"));
+        mahasiswaArrayList.add(new Mahasiswa("Dimas Maulana", "1414370309","123456789"));
+        mahasiswaArrayList.add(new Mahasiswa("Fadly Yonk", "1214234560","987654321"));
+        mahasiswaArrayList.add(new Mahasiswa("Ariyandi Nugraha", "1214230345","9876548765"));
+        mahasiswaArrayList.add(new Mahasiswa("Aham Siswana", "1214378098","0098758124"));
+        mahasiswaArrayList.add(new Mahasiswa("Dimas Maulana", "1414370309","123456789"));
+        mahasiswaArrayList.add(new Mahasiswa("Fadly Yonk", "1214234560","987654321"));
+        mahasiswaArrayList.add(new Mahasiswa("Ariyandi Nugraha", "1214230345","9876548765"));
+        mahasiswaArrayList.add(new Mahasiswa("Aham Siswana", "1214378098","0098758124"));
+
+        mahasiswaArrayList.add(new Mahasiswa("Dimas Maulana", "1414370309","123456789"));
+        mahasiswaArrayList.add(new Mahasiswa("Fadly Yonk", "1214234560","987654321"));
+        mahasiswaArrayList.add(new Mahasiswa("Ariyandi Nugraha", "1214230345","9876548765"));
+        mahasiswaArrayList.add(new Mahasiswa("Aham Siswana", "1214378098","0098758124"));
+        mahasiswaArrayList.add(new Mahasiswa("Dimas Maulana", "1414370309","123456789"));
+        mahasiswaArrayList.add(new Mahasiswa("Fadly Yonk", "1214234560","987654321"));
+        mahasiswaArrayList.add(new Mahasiswa("Ariyandi Nugraha", "1214230345","9876548765"));
+        mahasiswaArrayList.add(new Mahasiswa("Aham Siswana", "1214378098","0098758124"));
+        mahasiswaArrayList.add(new Mahasiswa("Dimas Maulana", "1414370309","123456789"));
+        mahasiswaArrayList.add(new Mahasiswa("Fadly Yonk", "1214234560","987654321"));
+        mahasiswaArrayList.add(new Mahasiswa("Ariyandi Nugraha", "1214230345","9876548765"));
+        mahasiswaArrayList.add(new Mahasiswa("Aham Siswana", "1214378098","0098758124"));
     }
 }
